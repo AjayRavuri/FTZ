@@ -1,2 +1,0 @@
-# FTZ
-FTZ World Services
